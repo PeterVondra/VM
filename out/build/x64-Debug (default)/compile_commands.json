@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/peter/Desktop/development/VM/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG -std:c++14 /FoCMakeFiles\\VM.dir\\main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\peter\\Desktop\\development\\VM\\main.cpp",
+  "file": "C:/Users/peter/Desktop/development/VM/main.cpp"
+},
+{
+  "directory": "C:/Users/peter/Desktop/development/VM/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100183~1.0\\x64\\rc.exe -DWIN32 /fo CMakeFiles\\VM.dir\\resources\\icon.rc.res C:\\Users\\peter\\Desktop\\development\\VM\\resources\\icon.rc",
+  "file": "C:/Users/peter/Desktop/development/VM/resources/icon.rc"
+}
+]

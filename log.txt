@@ -1,0 +1,5 @@
+[MNIST DIGITS]Debug:    [Epoch 1]980/10000 Accuracy: 9.800000%
+[MNIST DIGITS]Debug:    [Epoch 2]980/10000 Accuracy: 9.800000%
+[MNIST DIGITS]Debug:    [Epoch 3]980/10000 Accuracy: 9.800000%
+[MNIST DIGITS]Debug:    [Epoch 4]980/10000 Accuracy: 9.800000%
+
